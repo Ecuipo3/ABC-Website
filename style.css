@@ -1,5 +1,20 @@
 html {
     height: 100%;
     width: 100%;
+
+    body{
+      background-color: dimgray;
+    }
+
+h3 {
+  color:chartreuse;
+}
+.blue{
+  color: blue;
+}
+
+#rojo{
+  color: red;
+}
   }
   
